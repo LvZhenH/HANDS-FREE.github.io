@@ -24,7 +24,7 @@ HandsFree 交流群: 521037187 (Hands Free Community)
 - [移动平台导航避障视频](http://v.youku.com/v_show/id_XMTUyODk4NTUzNg==.htm)    
 - [研究领域视频展示](http://v.youku.com/v_show/id_XMTU0NzgwNzc3Mg==.html?from=y1.7-1.2) 
 
-## 教程
+## 介绍
 ### HANDS FREE 组成
 项目虽然看起来涉及很广，但目前主要任务大概有三个。      
 一是 OpenRE 库，全称 Open Source Robot Embedded Library，也就是机器人嵌入式库，简单的说，角色和 pixhawk 类似，只不过 pixhwak 主要是面向飞行器，而 OpenRE 是面向多模态机器人的。  详细内容可以参考[OpenRE源码](https://github.com/HANDS-FREE/OpenRE)和[OpenRE wiki](https://github.com/HANDS-FREE/OpenRE/wiki)           
@@ -37,6 +37,7 @@ HandsFree 交流群: 521037187 (Hands Free Community)
 其他：     
 [HandsFree GUI](https://github.com/HANDS-FREE/handsfree_gui) 可视化上位机软件, 可用于基于[OpenRE](https://github.com/HANDS-FREE/OpenRE)的机器人系统。       
 
+### 教程                 
 - 关于购买的机器的入门教程，可以看
 [Hands_Free_Robot_User_Manual.pdf](https://pan.baidu.com/s/1nuSvs7Z#list/path=%2FHANDSFREE%2FHands_Free_Release%2F0_Documentation%2Fdocumentation&parentPath=%2FHANDSFREE)
 
